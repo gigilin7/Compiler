@@ -1,2 +1,18 @@
-# Compiler
-大三上編譯程式期末project
+## Parser
++ Recursive-decent LL(1) parser：Chap2及Chap5範例CFG
++ Table-driven LL(1) parser：直接輸入CFG
+  - First
+  - Follow
+
+## 成果(以下使用Chap5範例CFG)
++ First
+
+<img src="https://raw.githubusercontent.com/gigilin7/Compiler/main/picture/FIRST.jpg" height=400>
+
++ Recursive-decent LL(1) parser
+
+<img src="https://raw.githubusercontent.com/gigilin7/Compiler/main/picture/RD5.jpg" height=200>
+
++ Table-driven LL(1) parser
+
+<img src="https://raw.githubusercontent.com/gigilin7/Compiler/main/picture/TD.jpg" height=400>
